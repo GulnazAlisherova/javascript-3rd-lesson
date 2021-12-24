@@ -87,3 +87,6 @@ else if (country === "Kyrgyzstan") {
 else if (country === "Kazakhstan") {
   alert("Nur Sultan");
 }
+else {
+  alert("We don't know that country")
+}
