@@ -18,4 +18,6 @@
 //   alert("Incorrect!");
 // }
 
-var example1
+var example1 = "Hello" + "World";
+
+console.log(example1);
