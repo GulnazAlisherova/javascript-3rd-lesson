@@ -4,5 +4,10 @@
 // }
 // alert (message);
 
-var year = prompt("When Kyrgyzstan gained independence?");
-if (year)
+var year = prompt("What year Kyrgyzstan gained independence?");
+if (year === 1991) {
+  alert("Correct!");
+}
+else {
+  alert("Incorrect!");
+}
