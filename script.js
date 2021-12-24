@@ -64,10 +64,14 @@
 // }
 
 
-var currentNumber = 0;
-var stopNumber = 150;
+// var currentNumber = 0;
+// var stopNumber = 12;
 
-while (currentNumber < stopNumber) {
-  currentNumber = currentNumber + 1;
-  console.log(currentNumber); 
+// while (stopNumber < stopNumber) {
+//   currentNumber = currentNumber + 1;
+//   console.log(currentNumber); 
+// }
+
+for (var i=1; i<=10; i++) {
+  
 }
