@@ -65,9 +65,9 @@
 
 
 var currentNumber = 0;
-var stopNumber = 10;
+var stopNumber = 150;
 
-while (stopNumber < stopNumber) {
+while (currentNumber < stopNumber) {
   currentNumber = currentNumber + 1;
   console.log(currentNumber); 
 }
