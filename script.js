@@ -64,9 +64,10 @@
 // }
 
 
-var currnetNumber = 0 ;
+var currentNumber = 0;
 var stopNumber = 10;
 
-if (stopNumber < stopNumber) {
-currnetNumber = currnetNumber + 1;
+while (stopNumber < stopNumber) {
+  currentNumber = currentNumber + 1;
+  console.log(currentNumber); 
 }
