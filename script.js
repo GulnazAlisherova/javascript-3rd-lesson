@@ -72,10 +72,12 @@
 //   console.log(currentNumber); 
 // }
 
-for (var i=1; i<=10; i++) {
-  console.log(i);
-}
+// for (var i=1; i<=10; i++) {
+//   console.log(i);
+// }
 
-if () {
-  
+
+var country = prompt("What is the country you want know capital of?");
+if (country === "USA") {
+  alert("Washington");
 }
