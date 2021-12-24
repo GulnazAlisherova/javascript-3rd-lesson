@@ -18,6 +18,11 @@
 //   alert("Incorrect!");
 // }
 
-var example1 = 100 + 100;
+// var example1 = 100 + 100;
+// var example2= "10" + "10"  
 
-console.log(example1);
+// console.log(example2);
+
+var age = prompt("How old are you?");
+var year = 2020 - age;
+console.log(year);
