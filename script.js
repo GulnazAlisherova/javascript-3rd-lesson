@@ -28,3 +28,5 @@
 // console.log(year);
 
 alert();
+console.log();
+confirm();
