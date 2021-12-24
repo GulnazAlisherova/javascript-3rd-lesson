@@ -81,3 +81,9 @@ var country = prompt("What is the country you want know capital of?");
 if (country === "USA") {
   alert("Washington");
 }
+else if (country === "Kyrgyzstan") {
+  alert("Bishkek");
+}
+else if (country === "Kazakhstan") {
+  alert("Nur Sultan");
+}
