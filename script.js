@@ -24,9 +24,17 @@
 // console.log(example2);
 
 // var age = prompt("How old are you?");
-// var year = 2020 - age;
+// var year = 2021 - age;
 // console.log(year);
 
-alert();
-console.log();
-confirm();
+// alert();
+// console.log();
+// confirm();
+ 
+var year = prompt("What year Kyrgyzstan gained independence?");
+if (year === "1991"){
+  alert("Correct");
+}
+else{
+  alert("Incorrect!");
+}
